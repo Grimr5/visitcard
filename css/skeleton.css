@@ -25,6 +25,16 @@
 - Media Queries
 */
 
+.top_line {
+  margin-top: 3rem;
+  margin-bottom: 10em;
+  border-width: 0;
+  border-top: 1px solid #E1E1E1;
+}
+
+.image {
+  margin-top: 10%;
+}
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
