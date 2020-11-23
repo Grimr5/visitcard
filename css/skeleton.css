@@ -26,14 +26,15 @@
 */
 
 .top_line {
-  margin-top: 3rem;
-  margin-bottom: 10em;
-  border-width: 0;
   border-top: 1px solid #E1E1E1;
 }
 
 .image {
-  margin-top: 10%;
+  margin-top: 3rem;
+}
+
+.my_info {
+  margin-top: 2rem;
 }
 
 /* Grid
